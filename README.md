@@ -1,1 +1,3 @@
-# python-testing-selenium
+# Python selenium testing
+
+Practicing with Selenium testing in python.
